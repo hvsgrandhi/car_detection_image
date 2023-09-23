@@ -1,0 +1,5 @@
+Step 1: Install OpenCV by running following command- pip install opencv-python
+
+Step 2: Choose the image in which you want to detect cars
+
+Step 3: Run the python file- python car_detection_image.py
